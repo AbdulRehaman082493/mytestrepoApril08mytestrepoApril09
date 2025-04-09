@@ -1,4 +1,8 @@
 This is mergefile of main
 This is second line of main
 This is second line of feature/merge01
+<<<<<<< HEAD
 This is fourth line of feature/merge02
+=======
+This is fourth line of feature/merge03
+>>>>>>> feature/merge03
